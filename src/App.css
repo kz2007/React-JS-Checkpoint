@@ -1,0 +1,23 @@
+:root{
+  --bd-violet: #3f48cc;
+}
+
+form{
+  width: 500px;
+  margin : auto auto;
+  text-align: left;
+}
+
+img{
+  
+  padding-top: 200px;
+}
+
+body{
+  background-color: #F2F2F2;
+  text-align: center;
+}
+
+label{
+  color: #262626;
+}
